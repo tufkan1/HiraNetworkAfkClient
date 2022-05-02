@@ -1,0 +1,5 @@
+send /login ŞİFRENİZ
+wait 3 seconds
+send /skyblock
+wait 3 seconds
+send /is warp İS WARP AFK ALANINIZ
